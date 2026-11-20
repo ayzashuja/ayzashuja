@@ -18,4 +18,4 @@ The reliability and evaluation of agentic AI systems, multi-agent behaviour, and
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ayza-shuja/) [![Gmail](https://shields.io)](mailto:ayza.shuja13@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayza-shuja/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ayza.shuja13@gmail.com)
